@@ -1,0 +1,7 @@
+# ninja log v5
+643	699	1683462128281058010	OOP_Exam_project	6a4de1b6fe68493e
+0	61	1700912599094664317	build.ninja	c0abf747aeecd64
+21	642	1683462128221449665	CMakeFiles/OOP_Exam_project.dir/main.cpp.o	13885f705d98ef2
+22	498	1683370814202053725	CMakeFiles/OOP_Exam_project.dir/Account_type.cpp.o	d73e05b9a05d0344
+4	364	1700912629870640514	CMakeFiles/OOP_Exam_project.dir/main.cpp.o	13885f705d98ef2
+364	589	1700912630097253868	OOP_Exam_project	6a4de1b6fe68493e

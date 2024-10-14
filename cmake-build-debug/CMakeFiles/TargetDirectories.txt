@@ -1,0 +1,3 @@
+/Users/dervaken/CLionProjects/OOP_Exam_project/cmake-build-debug/CMakeFiles/OOP_Exam_project.dir
+/Users/dervaken/CLionProjects/OOP_Exam_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dervaken/CLionProjects/OOP_Exam_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
